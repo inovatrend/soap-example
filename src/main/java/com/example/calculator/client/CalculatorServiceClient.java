@@ -1,4 +1,4 @@
-package com.example.customerservice.client;
+package com.example.calculator.client;
 
 import org.apache.cxf.ext.logging.LoggingInInterceptor;
 import org.apache.cxf.ext.logging.LoggingOutInterceptor;
